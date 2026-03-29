@@ -1,0 +1,28 @@
+{
+  "stores": [
+    {
+      "id": "store_001",
+      "name": "Metro",
+      "delivery_text": "Ближайшая доставка сегодня 21:00-23:00",
+      "external_url": "https://www.metro.ru/store/001"
+    },
+    {
+      "id": "store_002",
+      "name": "Ашан",
+      "delivery_text": "Ближайшая доставка сегодня 18:00-20:00",
+      "external_url": "https://www.auchan.ru/store/002"
+    },
+    {
+      "id": "store_003",
+      "name": "ВкусВилл",
+      "delivery_text": "Доставка от 20 до 60 минут",
+      "external_url": "https://www.vkusvill.ru/store/003"
+    },
+    {
+      "id": "store_004",
+      "name": "Виктория",
+      "delivery_text": "Ближайшая доставка 17:00-19:00",
+      "external_url": "https://www.victoria.ru/store/004"
+    }
+  ]
+}
